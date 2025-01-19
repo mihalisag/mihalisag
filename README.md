@@ -8,7 +8,7 @@ Aspiring Data Scientist with a strong foundation in Mathematics and a passion fo
 
 ###
 
-  - 🔭 I’m currently working on [Data Podium](https://github.com/mihalisag/data-podium)
+  - 🔭 I’m currently working on [Data Podium](https://data-podium.com/)
   
   - 🌱 I’m currently learning C and LLMs.</p>
 
