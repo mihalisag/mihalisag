@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Michail</h1>
 
 ###
-Aspiring Data Scientist with a strong foundation in Mathematics and a passion for turning data into actionable insights. Proficient in statistical analysis, predictive modeling, and leveraging tools like Python, SQL, and machine learning frameworks. I thrive in collaborative environments, solving complex problems with innovative, data-driven solutions. Excited to contribute to impactful projects that address real-world challenges and expand my expertise in the field.
+With a strong foundation in Mathematics and a passion for turning data into actionable insights, I am proficient in statistical analysis, predictive modeling, and leveraging tools like Python, SQL, and machine learning frameworks. I thrive in collaborative environments, solving complex problems with innovative, data-driven solutions. Excited to contribute to impactful projects that address real-world challenges and expand my expertise in the field.
 ###
 
 <h2 align="left">About me</h2>
