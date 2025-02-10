@@ -8,7 +8,7 @@ With a strong foundation in Mathematics and a passion for turning data into acti
 
 ###
 
-  - 🔭 I’m currently working on [Data Podium](https://data-podium.com/)
+  - 🔭 I’m currently working on [Data Podium](https://github.com/mihalisag/data-podium)
   
   - 🌱 I’m currently learning C and LLMs.</p>
 
